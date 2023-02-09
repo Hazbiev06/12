@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Knite\Knite\bin\Debug\Knite.dll
+C:\Users\student\Desktop\Knite\Knite\bin\Debug\Knite.pdb
+C:\Users\student\Desktop\Knite\Knite\obj\Debug\Knite.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Knite\Knite\obj\Debug\Knite.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Knite\Knite\obj\Debug\Knite.dll
+C:\Users\student\Desktop\Knite\Knite\obj\Debug\Knite.pdb
